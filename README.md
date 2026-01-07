@@ -30,3 +30,5 @@
 
 ## 📂 Project Structure
 
+- [ ] Task not completed
+- [x] Task completed
